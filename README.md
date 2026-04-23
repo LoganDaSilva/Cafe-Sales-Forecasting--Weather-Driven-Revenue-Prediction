@@ -1,5 +1,6 @@
 This project builds a predictive model for daily café sales by joining 3 years of internal POS transaction data with NOAA weather records to identify how weather conditions drive revenue and order volume.
 Dataset: Internal café POS data (2021–2023) joined with NOAA daily weather observations — ~3 seasons of daily records. Source data not included in this repo as it contains proprietary business records.
+
 What's in this project:
 
 Data merging and feature engineering across POS and weather data sources
